@@ -9,7 +9,7 @@ import plotly.express as px
 import streamlit as st
 
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parent
 DATA_DIR = ROOT / "data"
 OUTPUT_DIR = ROOT / "outputs"
 
