@@ -1,0 +1,600 @@
+user_id,signup_date,acquisition_channel,segment,device,region,company_size,quality_score,acquisition_cost,activated,trial_started,subscription_status,plan,subscription_date,monthly_price
+U104315,2025-01-01,Paid Search,Ops Manager,Desktop,LATAM,11-50,0.827,13.36,True,True,Paid,Growth,2025-01-03,59
+U103877,2025-01-01,Organic Search,Marketing Team,Desktop,Europe,51-200,1.269,18.11,True,True,Paid,Growth,2025-01-04,59
+U103207,2025-01-01,Paid Search,Ops Manager,Desktop,North America,1-10,0.748,43.24,True,True,Paid,Growth,2025-01-04,59
+U104553,2025-01-01,Referral,Ops Manager,Desktop,North America,11-50,1.944,5.97,True,True,Paid,Starter,2025-01-02,19
+U105228,2025-01-01,Social,Ops Manager,Desktop,North America,11-50,1.151,18.94,True,True,Paid,Starter,2025-01-08,19
+U107031,2025-01-01,Referral,Ops Manager,Desktop,Europe,11-50,1.53,18.61,True,True,Paid,Starter,2025-01-06,19
+U106587,2025-01-01,Referral,Ops Manager,Desktop,APAC,1-10,2.128,28.7,True,True,Paid,Growth,2025-01-07,59
+U103038,2025-01-02,Content,Ops Manager,Desktop,North America,51-200,1.487,9.33,True,True,Paid,Starter,2025-01-02,19
+U100766,2025-01-02,Paid Search,Ops Manager,Desktop,Europe,51-200,1.197,15.14,True,True,Paid,Scale,2025-01-09,149
+U107435,2025-01-03,Organic Search,Founder,Desktop,North America,11-50,1.212,35.39,True,True,Paid,Starter,2025-01-09,19
+U100812,2025-01-04,Organic Search,Ops Manager,Mobile,North America,1-10,1.407,10.78,True,True,Paid,Growth,2025-01-11,59
+U106601,2025-01-04,Referral,Ops Manager,Desktop,North America,1-10,1.729,8.41,True,True,Paid,Starter,2025-01-06,19
+U101949,2025-01-04,Referral,Founder,Desktop,Europe,1-10,1.66,6.08,True,True,Paid,Starter,2025-01-11,19
+U102038,2025-01-05,Organic Search,Founder,Tablet,North America,1-10,1.379,5.63,True,True,Paid,Starter,2025-01-05,19
+U107488,2025-01-05,Partnership,Ops Manager,Desktop,North America,1-10,1.692,2.31,True,True,Paid,Growth,2025-01-12,59
+U106034,2025-01-05,Paid Search,Ops Manager,Desktop,Europe,1-10,1.033,27.44,True,True,Paid,Starter,2025-01-06,19
+U105481,2025-01-06,Organic Search,Founder,Desktop,APAC,11-50,1.498,14.85,True,True,Paid,Growth,2025-01-10,59
+U101743,2025-01-06,Organic Search,Ops Manager,Desktop,North America,51-200,1.349,13.28,True,True,Paid,Starter,2025-01-12,19
+U103351,2025-01-07,Partnership,Ops Manager,Desktop,Europe,1-10,1.53,23.54,True,True,Paid,Starter,2025-01-07,19
+U105373,2025-01-07,Organic Search,Founder,Desktop,Europe,201-1000,1.404,16.94,True,True,Paid,Starter,2025-01-09,19
+U101841,2025-01-07,Referral,Ops Manager,Desktop,LATAM,51-200,1.637,14.56,True,True,Paid,Starter,2025-01-12,19
+U103691,2025-01-09,Partnership,Ops Manager,Mobile,North America,51-200,1.462,11.5,True,True,Paid,Starter,2025-01-15,19
+U107862,2025-01-09,Content,Sales Team,Desktop,Europe,1-10,1.237,11.69,True,True,Paid,Growth,2025-01-12,59
+U104474,2025-01-09,Organic Search,Founder,Desktop,APAC,11-50,1.172,32.28,True,True,Paid,Starter,2025-01-11,19
+U103838,2025-01-09,Organic Search,Founder,Tablet,North America,1000+,1.132,12.71,True,True,Paid,Starter,2025-01-14,19
+U102118,2025-01-09,Content,Ops Manager,Desktop,North America,1-10,1.142,22.91,True,True,Paid,Starter,2025-01-12,19
+U106158,2025-01-09,Referral,Student / Hobby,Mobile,Europe,51-200,0.858,11.53,True,True,Paid,Starter,2025-01-09,19
+U107321,2025-01-10,Organic Search,Founder,Desktop,APAC,1-10,0.965,14.71,True,True,Paid,Scale,2025-01-13,149
+U108138,2025-01-10,Organic Search,Ops Manager,Desktop,North America,11-50,1.717,12.58,True,True,Paid,Starter,2025-01-14,19
+U100635,2025-01-11,Paid Search,Ops Manager,Desktop,Europe,51-200,1.098,12.28,True,True,Paid,Starter,2025-01-19,19
+U100292,2025-01-11,Social,Ops Manager,Desktop,Europe,51-200,1.015,20.11,True,True,Paid,Scale,2025-01-16,149
+U100513,2025-01-12,Content,Sales Team,Desktop,North America,51-200,1.13,8.89,True,True,Paid,Growth,2025-01-18,59
+U101726,2025-01-12,Organic Search,Ops Manager,Desktop,North America,1-10,1.322,12.3,True,True,Paid,Starter,2025-01-12,19
+U106988,2025-01-12,Referral,Ops Manager,Desktop,North America,1-10,1.839,18.79,True,True,Paid,Starter,2025-01-20,19
+U104327,2025-01-13,Referral,Student / Hobby,Desktop,North America,1-10,0.906,13.09,True,True,Paid,Starter,2025-01-21,19
+U100075,2025-01-13,Organic Search,Sales Team,Desktop,Europe,1000+,1.403,8.13,True,True,Paid,Starter,2025-01-16,19
+U106990,2025-01-13,Organic Search,Founder,Desktop,LATAM,1-10,1.188,13.29,True,True,Paid,Starter,2025-01-21,19
+U102242,2025-01-13,Organic Search,Founder,Desktop,North America,201-1000,1.173,11.14,True,True,Paid,Starter,2025-01-20,19
+U102346,2025-01-14,Referral,Ops Manager,Desktop,LATAM,11-50,1.868,4.99,True,True,Paid,Starter,2025-01-22,19
+U101908,2025-01-15,Organic Search,Founder,Desktop,North America,201-1000,1.354,8.87,True,True,Paid,Starter,2025-01-18,19
+U106939,2025-01-15,Organic Search,Ops Manager,Mobile,North America,11-50,1.556,2.26,True,True,Paid,Growth,2025-01-16,59
+U105723,2025-01-15,Organic Search,Sales Team,Desktop,North America,1-10,1.255,20.96,True,True,Paid,Starter,2025-01-18,19
+U103157,2025-01-15,Paid Search,Ops Manager,Mobile,LATAM,51-200,1.147,4.25,True,True,Paid,Starter,2025-01-18,19
+U101768,2025-01-16,Organic Search,Founder,Desktop,Europe,11-50,1.174,18.07,True,True,Paid,Growth,2025-01-22,59
+U104837,2025-01-16,Referral,Student / Hobby,Desktop,Europe,1-10,1.181,30.72,True,True,Paid,Growth,2025-01-19,59
+U104293,2025-01-16,Referral,Marketing Team,Desktop,APAC,11-50,1.13,12.34,True,True,Paid,Growth,2025-01-17,59
+U100664,2025-01-18,Content,Founder,Desktop,North America,1-10,1.176,21.21,True,True,Paid,Growth,2025-01-26,59
+U104664,2025-01-18,Organic Search,Founder,Desktop,North America,11-50,1.369,13.41,True,True,Paid,Starter,2025-01-23,19
+U105387,2025-01-18,Referral,Sales Team,Desktop,Europe,11-50,1.201,5.07,True,True,Paid,Scale,2025-01-18,149
+U103966,2025-01-19,Organic Search,Ops Manager,Desktop,North America,1-10,1.019,22.2,True,True,Paid,Starter,2025-01-22,19
+U105780,2025-01-19,Referral,Marketing Team,Tablet,Europe,1-10,1.334,5.01,True,True,Paid,Scale,2025-01-22,149
+U103284,2025-01-20,Referral,Founder,Desktop,Europe,51-200,1.777,3.9,True,True,Paid,Starter,2025-01-21,19
+U106745,2025-01-20,Organic Search,Ops Manager,Desktop,Europe,51-200,1.674,15.2,True,True,Paid,Starter,2025-01-21,19
+U105436,2025-01-20,Paid Search,Ops Manager,Tablet,North America,51-200,1.438,13.35,True,True,Paid,Growth,2025-01-24,59
+U102147,2025-01-20,Referral,Marketing Team,Desktop,North America,51-200,1.469,9.09,True,True,Paid,Starter,2025-01-23,19
+U102514,2025-01-21,Paid Search,Ops Manager,Mobile,North America,1-10,1.039,24.78,True,True,Paid,Starter,2025-01-26,19
+U105470,2025-01-21,Paid Search,Ops Manager,Desktop,North America,11-50,1.492,9.31,True,True,Paid,Starter,2025-01-21,19
+U106156,2025-01-21,Paid Search,Ops Manager,Mobile,Europe,11-50,1.256,4.93,True,True,Paid,Scale,2025-01-24,149
+U100109,2025-01-21,Referral,Marketing Team,Mobile,LATAM,1-10,1.265,8.69,True,True,Paid,Starter,2025-01-25,19
+U100921,2025-01-21,Organic Search,Sales Team,Desktop,LATAM,1-10,1.275,13.52,True,True,Paid,Growth,2025-01-21,59
+U100869,2025-01-21,Referral,Founder,Desktop,Europe,1000+,1.747,25.29,True,True,Paid,Starter,2025-01-21,19
+U100940,2025-01-22,Social,Ops Manager,Desktop,Europe,1-10,0.851,20.61,True,True,Paid,Starter,2025-01-23,19
+U104091,2025-01-22,Content,Founder,Mobile,North America,11-50,1.315,21.7,True,True,Paid,Starter,2025-01-26,19
+U105912,2025-01-22,Referral,Founder,Desktop,APAC,1-10,1.706,5.13,True,True,Paid,Starter,2025-01-22,19
+U105463,2025-01-23,Social,Student / Hobby,Desktop,North America,11-50,0.43,49.92,True,True,Paid,Starter,2025-01-26,19
+U102022,2025-01-23,Paid Search,Ops Manager,Mobile,North America,51-200,1.371,12.37,True,True,Paid,Starter,2025-01-24,19
+U100908,2025-01-24,Referral,Ops Manager,Mobile,North America,51-200,1.624,26.2,True,True,Paid,Scale,2025-02-01,149
+U106563,2025-01-25,Referral,Founder,Mobile,North America,1-10,1.669,10.37,True,True,Paid,Starter,2025-02-01,19
+U101685,2025-01-25,Referral,Founder,Desktop,North America,51-200,1.715,8.23,True,True,Paid,Growth,2025-01-27,59
+U107385,2025-01-25,Organic Search,Founder,Desktop,LATAM,11-50,1.154,22.22,True,True,Paid,Starter,2025-01-29,19
+U108367,2025-01-26,Referral,Ops Manager,Desktop,North America,1-10,1.942,23.13,True,True,Paid,Growth,2025-02-02,59
+U100938,2025-01-26,Organic Search,Founder,Desktop,Europe,1-10,1.28,7.47,True,True,Paid,Starter,2025-01-30,19
+U103154,2025-01-26,Referral,Founder,Mobile,North America,11-50,1.711,14.7,True,True,Paid,Starter,2025-02-03,19
+U105873,2025-01-26,Referral,Ops Manager,Desktop,APAC,51-200,1.526,5.52,True,True,Paid,Starter,2025-01-30,19
+U101415,2025-01-27,Organic Search,Marketing Team,Desktop,North America,11-50,1.251,4.48,True,True,Paid,Starter,2025-01-27,19
+U102399,2025-01-27,Referral,Ops Manager,Desktop,North America,1-10,1.826,10.0,True,True,Paid,Growth,2025-02-03,59
+U101674,2025-01-27,Referral,Founder,Desktop,North America,1-10,1.656,13.27,True,True,Paid,Starter,2025-01-27,19
+U104653,2025-01-27,Organic Search,Ops Manager,Desktop,Europe,1-10,1.295,16.04,True,True,Paid,Starter,2025-01-30,19
+U103788,2025-01-27,Organic Search,Founder,Desktop,Europe,1-10,1.274,10.34,True,True,Paid,Scale,2025-02-02,149
+U101040,2025-01-27,Social,Founder,Desktop,North America,1-10,1.053,18.47,True,True,Paid,Growth,2025-01-31,59
+U103495,2025-01-28,Organic Search,Ops Manager,Desktop,LATAM,1-10,1.643,8.6,True,True,Paid,Growth,2025-01-31,59
+U103236,2025-01-28,Paid Search,Founder,Desktop,APAC,11-50,1.061,24.65,True,True,Paid,Growth,2025-02-02,59
+U104678,2025-01-28,Referral,Marketing Team,Desktop,APAC,1000+,1.331,23.79,True,True,Paid,Starter,2025-02-03,19
+U105664,2025-01-28,Referral,Founder,Mobile,APAC,1-10,1.859,5.42,True,True,Paid,Starter,2025-02-02,19
+U106394,2025-01-29,Paid Search,Founder,Desktop,LATAM,1-10,1.306,1.65,True,True,Paid,Starter,2025-01-29,19
+U106663,2025-01-29,Referral,Founder,Mobile,LATAM,1-10,1.492,17.02,True,True,Paid,Starter,2025-01-31,19
+U101189,2025-01-29,Paid Search,Founder,Desktop,North America,11-50,0.996,40.32,True,True,Paid,Scale,2025-01-29,149
+U108348,2025-01-30,Paid Search,Founder,Desktop,Europe,51-200,1.31,20.48,True,True,Paid,Growth,2025-02-03,59
+U106855,2025-01-30,Referral,Ops Manager,Desktop,North America,1-10,2.05,15.89,True,True,Paid,Growth,2025-02-02,59
+U105363,2025-01-30,Partnership,Founder,Tablet,North America,51-200,1.405,1.49,True,True,Paid,Growth,2025-02-06,59
+U107912,2025-01-30,Organic Search,Founder,Desktop,MEA,11-50,0.821,17.14,True,True,Paid,Starter,2025-02-07,19
+U107624,2025-01-30,Partnership,Ops Manager,Desktop,Europe,51-200,1.507,5.17,True,True,Paid,Scale,2025-02-05,149
+U104079,2025-02-02,Referral,Founder,Desktop,LATAM,1-10,1.623,21.52,True,True,Paid,Growth,2025-02-02,59
+U104388,2025-02-02,Referral,Sales Team,Desktop,Europe,1-10,1.602,5.81,True,True,Paid,Starter,2025-02-09,19
+U101904,2025-02-02,Partnership,Sales Team,Desktop,North America,11-50,0.952,14.57,True,True,Paid,Growth,2025-02-08,59
+U102209,2025-02-02,Partnership,Ops Manager,Desktop,APAC,11-50,1.62,3.63,True,True,Paid,Starter,2025-02-08,19
+U107965,2025-02-03,Content,Founder,Desktop,Europe,1-10,1.02,14.53,True,True,Paid,Starter,2025-02-09,19
+U102957,2025-02-03,Organic Search,Ops Manager,Mobile,Europe,201-1000,0.998,55.35,True,True,Paid,Starter,2025-02-06,19
+U102442,2025-02-03,Partnership,Ops Manager,Desktop,Europe,1-10,1.8,7.07,True,True,Paid,Starter,2025-02-09,19
+U103806,2025-02-03,Paid Search,Founder,Desktop,North America,11-50,1.328,18.89,True,True,Paid,Growth,2025-02-11,59
+U100927,2025-02-03,Partnership,Founder,Mobile,North America,1-10,1.623,8.49,True,True,Paid,Starter,2025-02-03,19
+U104374,2025-02-04,Organic Search,Sales Team,Desktop,MEA,11-50,1.371,8.24,True,True,Paid,Starter,2025-02-06,19
+U106836,2025-02-04,Referral,Marketing Team,Desktop,Europe,11-50,1.179,5.86,True,True,Paid,Growth,2025-02-11,59
+U101661,2025-02-04,Referral,Founder,Desktop,Europe,201-1000,1.549,10.53,True,True,Paid,Growth,2025-02-05,59
+U100798,2025-02-04,Organic Search,Founder,Desktop,LATAM,1-10,1.429,10.96,True,True,Paid,Starter,2025-02-10,19
+U100084,2025-02-05,Referral,Founder,Desktop,North America,11-50,1.372,11.04,True,True,Paid,Growth,2025-02-07,59
+U104997,2025-02-05,Referral,Sales Team,Desktop,APAC,1-10,1.427,2.61,True,True,Paid,Growth,2025-02-06,59
+U107367,2025-02-05,Organic Search,Founder,Desktop,Europe,11-50,1.337,17.11,True,True,Paid,Starter,2025-02-09,19
+U103142,2025-02-06,Partnership,Ops Manager,Desktop,APAC,1-10,1.557,5.13,True,True,Paid,Growth,2025-02-14,59
+U102548,2025-02-06,Organic Search,Ops Manager,Tablet,APAC,11-50,1.387,10.58,True,True,Paid,Starter,2025-02-09,19
+U108385,2025-02-06,Social,Founder,Desktop,APAC,1000+,1.155,8.73,True,True,Paid,Starter,2025-02-14,19
+U105878,2025-02-07,Social,Founder,Desktop,North America,51-200,0.801,25.32,True,True,Paid,Growth,2025-02-07,59
+U105279,2025-02-07,Organic Search,Sales Team,Mobile,LATAM,51-200,1.038,12.69,True,True,Paid,Starter,2025-02-12,19
+U107868,2025-02-08,Paid Search,Ops Manager,Desktop,North America,1-10,1.226,21.33,True,True,Paid,Growth,2025-02-08,59
+U102970,2025-02-08,Paid Search,Ops Manager,Desktop,Europe,1-10,1.108,4.84,True,True,Paid,Growth,2025-02-11,59
+U104070,2025-02-08,Referral,Founder,Desktop,North America,11-50,1.712,3.41,True,True,Paid,Starter,2025-02-09,19
+U103685,2025-02-08,Referral,Ops Manager,Desktop,North America,11-50,1.768,12.36,True,True,Paid,Growth,2025-02-16,59
+U105747,2025-02-08,Paid Search,Founder,Desktop,LATAM,11-50,1.049,12.89,True,True,Paid,Starter,2025-02-09,19
+U103168,2025-02-09,Referral,Founder,Desktop,LATAM,1-10,1.606,6.96,True,True,Paid,Scale,2025-02-12,149
+U102204,2025-02-09,Content,Founder,Mobile,North America,1-10,1.083,31.17,True,True,Paid,Starter,2025-02-12,19
+U102078,2025-02-09,Social,Sales Team,Desktop,APAC,11-50,1.175,17.11,True,True,Paid,Scale,2025-02-17,149
+U105038,2025-02-10,Partnership,Ops Manager,Desktop,North America,11-50,1.582,13.13,True,True,Paid,Starter,2025-02-12,19
+U101597,2025-02-10,Organic Search,Ops Manager,Desktop,North America,201-1000,1.485,2.43,True,True,Paid,Scale,2025-02-15,149
+U106816,2025-02-10,Organic Search,Ops Manager,Desktop,North America,11-50,0.994,14.58,True,True,Paid,Growth,2025-02-11,59
+U107779,2025-02-12,Paid Search,Ops Manager,Mobile,North America,11-50,0.957,11.8,True,True,Paid,Starter,2025-02-14,19
+U100213,2025-02-12,Paid Search,Ops Manager,Desktop,Europe,1-10,1.294,12.22,True,True,Paid,Starter,2025-02-16,19
+U101512,2025-02-12,Referral,Marketing Team,Desktop,LATAM,11-50,1.234,29.76,True,True,Paid,Starter,2025-02-15,19
+U104325,2025-02-12,Content,Ops Manager,Tablet,North America,11-50,1.01,53.13,True,True,Paid,Starter,2025-02-18,19
+U106418,2025-02-12,Organic Search,Student / Hobby,Desktop,North America,51-200,0.979,15.74,True,True,Paid,Growth,2025-02-16,59
+U104201,2025-02-13,Partnership,Ops Manager,Desktop,North America,1-10,1.582,11.13,True,True,Paid,Starter,2025-02-16,19
+U100970,2025-02-13,Referral,Founder,Desktop,Europe,201-1000,1.791,13.01,True,True,Paid,Growth,2025-02-18,59
+U106252,2025-02-13,Partnership,Founder,Desktop,APAC,51-200,1.606,7.86,True,True,Paid,Starter,2025-02-17,19
+U100536,2025-02-14,Content,Ops Manager,Desktop,North America,1-10,1.567,17.78,True,True,Paid,Starter,2025-02-19,19
+U108081,2025-02-14,Organic Search,Founder,Desktop,North America,201-1000,1.559,19.77,True,True,Paid,Starter,2025-02-14,19
+U107410,2025-02-14,Referral,Founder,Desktop,Europe,1000+,1.489,7.6,True,True,Paid,Growth,2025-02-14,59
+U105154,2025-02-16,Paid Search,Ops Manager,Desktop,APAC,11-50,0.99,11.34,True,True,Paid,Growth,2025-02-18,59
+U101722,2025-02-16,Referral,Ops Manager,Mobile,Europe,1-10,1.651,2.22,True,True,Paid,Growth,2025-02-21,59
+U105882,2025-02-17,Organic Search,Sales Team,Desktop,North America,201-1000,1.139,16.77,True,True,Paid,Starter,2025-02-19,19
+U101811,2025-02-17,Organic Search,Ops Manager,Tablet,North America,1-10,1.388,42.14,True,True,Paid,Starter,2025-02-18,19
+U104951,2025-02-18,Referral,Ops Manager,Desktop,North America,11-50,1.882,13.41,True,True,Paid,Starter,2025-02-20,19
+U105646,2025-02-18,Paid Search,Ops Manager,Mobile,North America,201-1000,0.896,16.39,True,True,Paid,Growth,2025-02-19,59
+U101555,2025-02-20,Organic Search,Ops Manager,Desktop,APAC,1-10,1.743,7.6,True,True,Paid,Growth,2025-02-20,59
+U102100,2025-02-20,Social,Ops Manager,Desktop,North America,1-10,0.899,35.41,True,True,Paid,Growth,2025-02-21,59
+U104964,2025-02-21,Content,Ops Manager,Desktop,APAC,11-50,1.334,11.3,True,True,Paid,Starter,2025-02-24,19
+U102406,2025-02-22,Paid Search,Ops Manager,Mobile,Europe,51-200,1.335,8.82,True,True,Paid,Starter,2025-02-25,19
+U105333,2025-02-22,Organic Search,Founder,Mobile,Europe,11-50,1.552,8.54,True,True,Paid,Growth,2025-02-23,59
+U101785,2025-02-22,Organic Search,Ops Manager,Desktop,North America,201-1000,1.24,4.3,True,True,Paid,Growth,2025-03-01,59
+U100909,2025-02-23,Referral,Founder,Desktop,APAC,201-1000,1.876,16.33,True,True,Paid,Growth,2025-02-25,59
+U102374,2025-02-23,Referral,Ops Manager,Desktop,APAC,11-50,1.547,30.42,True,True,Paid,Starter,2025-02-26,19
+U101173,2025-02-24,Content,Sales Team,Mobile,North America,1000+,1.336,5.12,True,True,Paid,Starter,2025-03-04,19
+U101063,2025-02-24,Organic Search,Ops Manager,Desktop,APAC,51-200,1.361,9.94,True,True,Paid,Growth,2025-02-27,59
+U107873,2025-02-25,Content,Marketing Team,Desktop,Europe,1-10,1.306,9.36,True,True,Paid,Starter,2025-03-04,19
+U103757,2025-02-25,Paid Search,Marketing Team,Desktop,North America,51-200,1.026,7.58,True,True,Paid,Growth,2025-03-02,59
+U102779,2025-02-25,Referral,Sales Team,Mobile,Europe,11-50,1.213,49.27,True,True,Paid,Starter,2025-02-25,19
+U104048,2025-02-26,Organic Search,Ops Manager,Desktop,APAC,1-10,1.214,11.07,True,True,Paid,Starter,2025-02-28,19
+U106464,2025-02-26,Referral,Sales Team,Mobile,MEA,51-200,1.336,11.62,True,True,Paid,Starter,2025-02-26,19
+U106620,2025-02-27,Referral,Sales Team,Desktop,Europe,201-1000,1.601,6.88,True,True,Paid,Growth,2025-02-27,59
+U106282,2025-02-27,Referral,Sales Team,Desktop,North America,1000+,1.535,5.85,True,True,Paid,Growth,2025-02-28,59
+U101877,2025-02-27,Paid Search,Founder,Desktop,North America,1-10,1.278,24.87,True,True,Paid,Growth,2025-03-01,59
+U102838,2025-02-27,Organic Search,Marketing Team,Desktop,North America,51-200,0.924,27.14,True,True,Paid,Starter,2025-02-27,19
+U102735,2025-02-28,Referral,Ops Manager,Desktop,LATAM,201-1000,1.392,10.11,True,True,Paid,Growth,2025-02-28,59
+U103015,2025-03-01,Referral,Sales Team,Desktop,Europe,201-1000,1.364,8.19,True,True,Paid,Starter,2025-03-02,19
+U107329,2025-03-01,Paid Search,Ops Manager,Desktop,Europe,1-10,1.201,9.16,True,True,Paid,Growth,2025-03-03,59
+U102073,2025-03-01,Content,Founder,Desktop,Europe,11-50,1.084,7.31,True,True,Paid,Growth,2025-03-09,59
+U102817,2025-03-02,Content,Ops Manager,Desktop,North America,11-50,1.64,13.58,True,True,Paid,Growth,2025-03-10,59
+U105525,2025-03-02,Organic Search,Founder,Desktop,North America,51-200,1.213,27.42,True,True,Paid,Starter,2025-03-07,19
+U107749,2025-03-03,Paid Search,Ops Manager,Desktop,North America,1-10,1.026,41.19,True,True,Paid,Scale,2025-03-10,149
+U101858,2025-03-03,Partnership,Founder,Desktop,North America,11-50,1.454,3.3,True,True,Paid,Growth,2025-03-06,59
+U102344,2025-03-03,Content,Ops Manager,Mobile,Europe,1-10,1.305,10.92,True,True,Paid,Scale,2025-03-09,149
+U103315,2025-03-04,Paid Search,Founder,Desktop,North America,201-1000,0.931,3.1,True,True,Paid,Starter,2025-03-06,19
+U103590,2025-03-04,Paid Search,Sales Team,Mobile,North America,11-50,0.925,31.63,True,True,Paid,Growth,2025-03-07,59
+U103339,2025-03-04,Referral,Sales Team,Desktop,MEA,51-200,1.685,11.18,True,True,Paid,Starter,2025-03-04,19
+U105872,2025-03-04,Referral,Ops Manager,Desktop,North America,51-200,1.801,14.63,True,True,Paid,Starter,2025-03-11,19
+U104706,2025-03-05,Content,Sales Team,Desktop,APAC,51-200,1.388,8.17,True,True,Paid,Starter,2025-03-06,19
+U100077,2025-03-05,Partnership,Ops Manager,Desktop,North America,51-200,1.177,16.98,True,True,Paid,Starter,2025-03-12,19
+U102408,2025-03-05,Organic Search,Founder,Desktop,Europe,1-10,1.791,4.81,True,True,Paid,Starter,2025-03-12,19
+U101871,2025-03-07,Paid Search,Marketing Team,Tablet,Europe,11-50,0.925,13.11,True,True,Paid,Starter,2025-03-09,19
+U101026,2025-03-07,Referral,Ops Manager,Desktop,Europe,51-200,1.716,9.72,True,True,Paid,Growth,2025-03-08,59
+U100068,2025-03-07,Referral,Ops Manager,Desktop,North America,1-10,1.787,23.22,True,True,Paid,Growth,2025-03-14,59
+U101671,2025-03-07,Paid Search,Founder,Desktop,Europe,1-10,1.244,26.01,True,True,Paid,Growth,2025-03-09,59
+U102294,2025-03-08,Referral,Sales Team,Desktop,North America,11-50,1.593,21.7,True,True,Paid,Growth,2025-03-16,59
+U100263,2025-03-08,Organic Search,Founder,Desktop,Europe,1-10,1.207,19.0,True,True,Paid,Starter,2025-03-16,19
+U107315,2025-03-09,Content,Founder,Mobile,North America,1-10,1.07,4.22,True,True,Paid,Scale,2025-03-11,149
+U101217,2025-03-09,Referral,Founder,Desktop,APAC,1-10,1.833,1.54,True,True,Paid,Starter,2025-03-13,19
+U106650,2025-03-09,Referral,Ops Manager,Desktop,North America,51-200,1.523,6.92,True,True,Paid,Starter,2025-03-09,19
+U105881,2025-03-09,Content,Sales Team,Mobile,North America,11-50,1.283,5.88,True,True,Paid,Scale,2025-03-15,149
+U100878,2025-03-10,Referral,Founder,Desktop,North America,1-10,1.719,10.71,True,True,Paid,Starter,2025-03-16,19
+U102764,2025-03-10,Content,Marketing Team,Desktop,Europe,11-50,1.089,19.59,True,True,Paid,Growth,2025-03-12,59
+U106393,2025-03-10,Organic Search,Sales Team,Desktop,APAC,1-10,1.288,14.75,True,True,Paid,Growth,2025-03-15,59
+U101464,2025-03-11,Referral,Ops Manager,Desktop,APAC,51-200,1.731,16.45,True,True,Paid,Starter,2025-03-13,19
+U102238,2025-03-11,Referral,Ops Manager,Mobile,APAC,1000+,1.803,8.12,True,True,Paid,Starter,2025-03-19,19
+U103994,2025-03-11,Referral,Founder,Desktop,Europe,11-50,2.059,0.67,True,True,Paid,Growth,2025-03-18,59
+U107090,2025-03-12,Partnership,Ops Manager,Mobile,LATAM,201-1000,1.884,5.76,True,True,Paid,Starter,2025-03-19,19
+U105170,2025-03-13,Referral,Ops Manager,Desktop,MEA,1-10,1.696,4.33,True,True,Paid,Growth,2025-03-15,59
+U103437,2025-03-13,Organic Search,Founder,Desktop,North America,1-10,1.552,11.26,True,True,Paid,Growth,2025-03-19,59
+U101761,2025-03-13,Referral,Ops Manager,Desktop,North America,51-200,1.693,14.85,True,True,Paid,Starter,2025-03-21,19
+U107098,2025-03-14,Organic Search,Ops Manager,Desktop,MEA,11-50,1.396,19.98,True,True,Paid,Starter,2025-03-22,19
+U102587,2025-03-14,Paid Search,Founder,Desktop,Europe,11-50,0.936,18.82,True,True,Paid,Starter,2025-03-20,19
+U102484,2025-03-15,Content,Ops Manager,Tablet,North America,1-10,1.214,53.63,True,True,Paid,Scale,2025-03-16,149
+U107101,2025-03-15,Organic Search,Sales Team,Desktop,Europe,1-10,1.282,9.15,True,True,Paid,Starter,2025-03-23,19
+U106844,2025-03-15,Paid Search,Founder,Desktop,Europe,1-10,1.265,17.8,True,True,Paid,Starter,2025-03-19,19
+U106525,2025-03-16,Content,Ops Manager,Desktop,LATAM,11-50,1.45,17.03,True,True,Paid,Growth,2025-03-16,59
+U100656,2025-03-17,Organic Search,Marketing Team,Desktop,North America,1-10,1.248,13.73,True,True,Paid,Growth,2025-03-20,59
+U105313,2025-03-17,Referral,Ops Manager,Desktop,North America,1-10,1.582,6.12,True,True,Paid,Growth,2025-03-20,59
+U103687,2025-03-17,Organic Search,Founder,Desktop,APAC,1-10,1.693,14.23,True,True,Paid,Growth,2025-03-21,59
+U104304,2025-03-18,Referral,Ops Manager,Desktop,Europe,1-10,1.931,9.26,True,True,Paid,Scale,2025-03-25,149
+U102798,2025-03-18,Referral,Ops Manager,Desktop,APAC,1-10,1.966,8.62,True,True,Paid,Growth,2025-03-25,59
+U106779,2025-03-19,Paid Search,Ops Manager,Desktop,Europe,51-200,1.119,20.31,True,True,Paid,Growth,2025-03-25,59
+U100022,2025-03-19,Referral,Marketing Team,Desktop,MEA,1-10,1.319,13.47,True,True,Paid,Starter,2025-03-22,19
+U105767,2025-03-19,Organic Search,Sales Team,Desktop,North America,51-200,0.717,12.29,True,True,Paid,Growth,2025-03-22,59
+U104212,2025-03-19,Paid Search,Founder,Tablet,North America,51-200,0.827,25.56,True,True,Paid,Growth,2025-03-21,59
+U107184,2025-03-19,Content,Ops Manager,Desktop,APAC,1-10,1.236,26.66,True,True,Paid,Growth,2025-03-22,59
+U106153,2025-03-19,Referral,Ops Manager,Desktop,MEA,1-10,1.278,14.22,True,True,Paid,Growth,2025-03-26,59
+U102393,2025-03-20,Referral,Ops Manager,Desktop,Europe,1-10,1.83,14.54,True,True,Paid,Growth,2025-03-21,59
+U103617,2025-03-21,Organic Search,Sales Team,Desktop,North America,1-10,0.99,26.67,True,True,Paid,Starter,2025-03-25,19
+U100315,2025-03-21,Partnership,Ops Manager,Mobile,Europe,11-50,1.219,20.03,True,True,Paid,Starter,2025-03-22,19
+U105680,2025-03-22,Organic Search,Sales Team,Desktop,North America,11-50,1.356,16.6,True,True,Paid,Starter,2025-03-30,19
+U108276,2025-03-23,Referral,Founder,Desktop,Europe,1-10,1.392,8.71,True,True,Paid,Growth,2025-03-28,59
+U103985,2025-03-23,Social,Founder,Desktop,North America,1-10,1.158,5.4,True,True,Paid,Starter,2025-03-25,19
+U104704,2025-03-23,Organic Search,Marketing Team,Desktop,APAC,11-50,1.395,21.55,True,True,Paid,Starter,2025-03-28,19
+U106656,2025-03-24,Referral,Ops Manager,Desktop,North America,1-10,1.683,1.98,True,True,Paid,Growth,2025-03-28,59
+U105841,2025-03-24,Content,Founder,Desktop,North America,51-200,1.288,3.08,True,True,Paid,Starter,2025-03-24,19
+U106945,2025-03-25,Paid Search,Marketing Team,Desktop,LATAM,1-10,0.902,17.03,True,True,Paid,Growth,2025-03-25,59
+U103648,2025-03-27,Paid Search,Ops Manager,Tablet,APAC,1000+,0.879,2.93,True,True,Paid,Scale,2025-03-30,149
+U108467,2025-03-27,Referral,Founder,Desktop,North America,1-10,1.485,33.64,True,True,Paid,Starter,2025-04-02,19
+U103854,2025-03-27,Referral,Sales Team,Desktop,APAC,11-50,1.249,15.31,True,True,Paid,Growth,2025-03-29,59
+U102699,2025-03-28,Organic Search,Ops Manager,Desktop,Europe,11-50,1.174,9.65,True,True,Paid,Scale,2025-04-03,149
+U108251,2025-03-28,Referral,Ops Manager,Desktop,Europe,1-10,1.667,15.42,True,True,Paid,Starter,2025-04-02,19
+U107726,2025-03-28,Organic Search,Ops Manager,Mobile,LATAM,11-50,1.856,12.35,True,True,Paid,Starter,2025-04-03,19
+U106964,2025-03-28,Referral,Ops Manager,Mobile,North America,1-10,1.48,4.18,True,True,Paid,Scale,2025-04-01,149
+U105508,2025-03-29,Referral,Founder,Mobile,Europe,1-10,1.154,22.52,True,True,Paid,Scale,2025-03-29,149
+U104296,2025-03-30,Paid Search,Founder,Desktop,North America,11-50,0.863,35.79,True,True,Paid,Growth,2025-04-01,59
+U107206,2025-03-30,Organic Search,Founder,Desktop,North America,1-10,1.125,20.56,True,True,Paid,Growth,2025-04-01,59
+U103583,2025-03-30,Referral,Marketing Team,Desktop,APAC,1-10,1.431,26.67,True,True,Paid,Scale,2025-03-30,149
+U100651,2025-03-30,Referral,Sales Team,Desktop,APAC,51-200,1.802,20.85,True,True,Paid,Scale,2025-03-30,149
+U102878,2025-03-30,Organic Search,Ops Manager,Desktop,APAC,1-10,1.203,31.92,True,True,Paid,Starter,2025-04-05,19
+U107674,2025-03-30,Content,Ops Manager,Desktop,North America,11-50,1.157,10.64,True,True,Paid,Growth,2025-03-31,59
+U105215,2025-03-31,Organic Search,Founder,Desktop,APAC,1-10,1.402,20.95,True,True,Paid,Growth,2025-04-08,59
+U101096,2025-04-01,Organic Search,Founder,Desktop,North America,11-50,1.274,46.59,True,True,Paid,Starter,2025-04-02,19
+U108042,2025-04-01,Paid Search,Sales Team,Desktop,North America,11-50,1.072,15.1,True,True,Paid,Starter,2025-04-02,19
+U104462,2025-04-02,Referral,Ops Manager,Mobile,North America,201-1000,1.58,15.66,True,True,Paid,Growth,2025-04-10,59
+U101210,2025-04-03,Partnership,Founder,Desktop,North America,1-10,1.436,29.03,True,True,Paid,Starter,2025-04-09,19
+U106725,2025-04-04,Referral,Ops Manager,Desktop,APAC,1-10,1.478,14.26,True,True,Paid,Growth,2025-04-12,59
+U102065,2025-04-04,Content,Ops Manager,Desktop,North America,1-10,1.435,2.74,True,True,Paid,Starter,2025-04-12,19
+U106174,2025-04-05,Social,Marketing Team,Desktop,APAC,1-10,0.861,5.06,True,True,Paid,Starter,2025-04-10,19
+U104133,2025-04-05,Referral,Sales Team,Desktop,North America,201-1000,1.154,21.05,True,True,Paid,Starter,2025-04-09,19
+U101380,2025-04-06,Paid Search,Sales Team,Desktop,North America,1-10,0.772,16.06,True,True,Paid,Growth,2025-04-13,59
+U103526,2025-04-06,Referral,Ops Manager,Desktop,North America,1-10,1.576,6.54,True,True,Paid,Scale,2025-04-08,149
+U103815,2025-04-06,Referral,Ops Manager,Desktop,North America,51-200,1.637,3.98,True,True,Paid,Starter,2025-04-14,19
+U108320,2025-04-06,Organic Search,Founder,Desktop,LATAM,1-10,1.501,43.23,True,True,Paid,Starter,2025-04-13,19
+U101609,2025-04-06,Content,Founder,Mobile,LATAM,1-10,1.379,29.25,True,True,Paid,Growth,2025-04-07,59
+U105027,2025-04-07,Organic Search,Founder,Mobile,Europe,11-50,1.068,1.42,True,True,Paid,Growth,2025-04-14,59
+U106413,2025-04-07,Referral,Ops Manager,Desktop,APAC,51-200,1.76,1.28,True,True,Paid,Starter,2025-04-14,19
+U103858,2025-04-08,Partnership,Ops Manager,Mobile,APAC,1-10,1.193,19.83,True,True,Paid,Starter,2025-04-16,19
+U102843,2025-04-08,Organic Search,Founder,Desktop,North America,11-50,1.334,10.5,True,True,Paid,Growth,2025-04-14,59
+U105329,2025-04-08,Organic Search,Ops Manager,Desktop,APAC,51-200,1.489,10.17,True,True,Paid,Starter,2025-04-10,19
+U105617,2025-04-08,Paid Search,Ops Manager,Mobile,APAC,201-1000,1.503,15.34,True,True,Paid,Starter,2025-04-15,19
+U104153,2025-04-08,Referral,Sales Team,Desktop,Europe,1-10,1.441,4.89,True,True,Paid,Growth,2025-04-11,59
+U104747,2025-04-09,Paid Search,Marketing Team,Mobile,North America,1-10,0.828,3.46,True,True,Paid,Starter,2025-04-11,19
+U103370,2025-04-09,Organic Search,Sales Team,Desktop,Europe,1-10,1.059,19.53,True,True,Paid,Growth,2025-04-15,59
+U103982,2025-04-09,Referral,Ops Manager,Desktop,North America,11-50,2.109,1.59,True,True,Paid,Growth,2025-04-13,59
+U101890,2025-04-10,Content,Ops Manager,Mobile,Europe,1-10,1.621,8.52,True,True,Paid,Growth,2025-04-11,59
+U106157,2025-04-11,Content,Founder,Mobile,North America,11-50,1.514,14.24,True,True,Paid,Growth,2025-04-19,59
+U100253,2025-04-12,Referral,Founder,Mobile,North America,1-10,1.437,22.81,True,True,Paid,Starter,2025-04-18,19
+U104663,2025-04-12,Content,Ops Manager,Desktop,LATAM,11-50,1.627,2.91,True,True,Paid,Growth,2025-04-19,59
+U101423,2025-04-13,Referral,Ops Manager,Desktop,Europe,11-50,1.707,14.76,True,True,Paid,Starter,2025-04-18,19
+U107128,2025-04-13,Partnership,Ops Manager,Mobile,Europe,11-50,1.612,9.95,True,True,Paid,Starter,2025-04-19,19
+U104481,2025-04-13,Social,Founder,Desktop,MEA,1-10,1.081,40.32,True,True,Paid,Starter,2025-04-20,19
+U101566,2025-04-14,Organic Search,Founder,Desktop,North America,11-50,1.662,15.83,True,True,Paid,Starter,2025-04-18,19
+U101291,2025-04-14,Organic Search,Marketing Team,Desktop,North America,201-1000,1.124,3.33,True,True,Paid,Starter,2025-04-22,19
+U107245,2025-04-15,Organic Search,Founder,Mobile,Europe,1-10,1.172,17.08,True,True,Paid,Starter,2025-04-17,19
+U100977,2025-04-15,Organic Search,Ops Manager,Desktop,North America,11-50,1.121,37.45,True,True,Paid,Growth,2025-04-21,59
+U102827,2025-04-15,Referral,Ops Manager,Mobile,North America,11-50,1.778,9.42,True,True,Paid,Growth,2025-04-21,59
+U100856,2025-04-16,Referral,Sales Team,Desktop,North America,1-10,1.312,8.42,True,True,Paid,Growth,2025-04-19,59
+U107675,2025-04-16,Organic Search,Founder,Tablet,North America,201-1000,1.492,19.29,True,True,Paid,Growth,2025-04-16,59
+U100551,2025-04-16,Referral,Sales Team,Mobile,MEA,1-10,1.678,7.62,True,True,Paid,Starter,2025-04-16,19
+U105513,2025-04-16,Referral,Ops Manager,Desktop,North America,1-10,1.761,8.12,True,True,Paid,Growth,2025-04-19,59
+U103250,2025-04-17,Organic Search,Founder,Desktop,North America,51-200,1.401,15.96,True,True,Paid,Growth,2025-04-21,59
+U105600,2025-04-17,Referral,Ops Manager,Desktop,North America,51-200,1.727,11.04,True,True,Paid,Growth,2025-04-20,59
+U107998,2025-04-18,Organic Search,Founder,Desktop,Europe,1-10,1.338,7.75,True,True,Paid,Scale,2025-04-24,149
+U105134,2025-04-18,Organic Search,Ops Manager,Desktop,Europe,1-10,1.084,38.12,True,True,Paid,Starter,2025-04-21,19
+U101569,2025-04-18,Paid Search,Ops Manager,Desktop,LATAM,1-10,0.768,35.17,True,True,Paid,Scale,2025-04-21,149
+U104497,2025-04-18,Content,Marketing Team,Desktop,North America,1-10,1.081,40.16,True,True,Paid,Starter,2025-04-22,19
+U101490,2025-04-18,Social,Founder,Tablet,Europe,1-10,0.906,16.53,True,True,Paid,Growth,2025-04-24,59
+U100601,2025-04-18,Paid Search,Ops Manager,Desktop,North America,51-200,1.52,4.47,True,True,Paid,Growth,2025-04-20,59
+U105251,2025-04-19,Organic Search,Marketing Team,Mobile,North America,11-50,0.732,1.08,True,True,Paid,Starter,2025-04-26,19
+U100966,2025-04-19,Referral,Ops Manager,Desktop,MEA,1-10,1.778,9.07,True,True,Paid,Growth,2025-04-25,59
+U100904,2025-04-19,Organic Search,Ops Manager,Desktop,APAC,1-10,1.478,16.92,True,True,Paid,Scale,2025-04-24,149
+U100573,2025-04-19,Content,Ops Manager,Desktop,North America,1-10,1.24,9.12,True,True,Paid,Starter,2025-04-24,19
+U103295,2025-04-21,Paid Search,Sales Team,Desktop,APAC,11-50,1.183,11.25,True,True,Paid,Starter,2025-04-29,19
+U101149,2025-04-22,Paid Search,Founder,Desktop,MEA,11-50,0.952,43.43,True,True,Paid,Scale,2025-04-29,149
+U101830,2025-04-22,Partnership,Founder,Mobile,APAC,11-50,1.607,4.88,True,True,Paid,Starter,2025-04-28,19
+U108038,2025-04-22,Organic Search,Ops Manager,Desktop,Europe,1-10,1.266,11.75,True,True,Paid,Growth,2025-04-26,59
+U100581,2025-04-24,Partnership,Founder,Desktop,North America,1-10,1.81,9.74,True,True,Paid,Scale,2025-05-01,149
+U103603,2025-04-24,Organic Search,Marketing Team,Tablet,Europe,51-200,0.971,8.36,True,True,Paid,Growth,2025-04-30,59
+U103490,2025-04-24,Referral,Ops Manager,Desktop,North America,51-200,1.824,4.47,True,True,Paid,Scale,2025-05-02,149
+U104762,2025-04-25,Paid Search,Ops Manager,Desktop,North America,1-10,1.014,4.2,True,True,Paid,Scale,2025-05-01,149
+U106786,2025-04-25,Partnership,Founder,Desktop,North America,1-10,1.301,8.85,True,True,Paid,Growth,2025-05-01,59
+U101175,2025-04-25,Organic Search,Sales Team,Desktop,North America,11-50,1.134,38.93,True,True,Paid,Growth,2025-04-29,59
+U102067,2025-04-25,Paid Search,Founder,Desktop,APAC,51-200,1.066,24.41,True,True,Paid,Starter,2025-04-26,19
+U101688,2025-04-25,Organic Search,Sales Team,Mobile,North America,11-50,1.118,10.77,True,True,Paid,Starter,2025-04-27,19
+U104764,2025-04-26,Organic Search,Founder,Mobile,North America,1-10,1.34,24.16,True,True,Paid,Growth,2025-04-27,59
+U104898,2025-04-26,Organic Search,Marketing Team,Desktop,North America,1-10,0.984,31.27,True,True,Paid,Starter,2025-04-27,19
+U100809,2025-04-26,Organic Search,Ops Manager,Mobile,APAC,11-50,1.609,5.19,True,True,Paid,Starter,2025-04-30,19
+U107537,2025-04-26,Referral,Ops Manager,Desktop,LATAM,11-50,1.913,6.75,True,True,Paid,Starter,2025-04-30,19
+U107741,2025-04-26,Referral,Founder,Desktop,APAC,11-50,1.379,8.18,True,True,Paid,Growth,2025-05-04,59
+U102541,2025-04-26,Organic Search,Ops Manager,Mobile,Europe,51-200,1.549,27.78,True,True,Paid,Starter,2025-05-01,19
+U108346,2025-04-27,Referral,Ops Manager,Desktop,North America,51-200,1.881,9.05,True,True,Paid,Scale,2025-05-02,149
+U105838,2025-04-27,Social,Ops Manager,Mobile,Europe,11-50,0.832,18.95,True,True,Paid,Starter,2025-05-01,19
+U102540,2025-04-27,Referral,Founder,Mobile,Europe,1-10,1.594,15.89,True,True,Paid,Scale,2025-04-29,149
+U100721,2025-04-28,Organic Search,Founder,Desktop,LATAM,1-10,1.13,40.12,True,True,Paid,Starter,2025-05-03,19
+U102635,2025-04-30,Organic Search,Founder,Tablet,North America,1-10,1.64,18.47,True,True,Paid,Scale,2025-05-05,149
+U104381,2025-04-30,Organic Search,Founder,Desktop,APAC,201-1000,1.119,28.68,True,True,Paid,Growth,2025-05-01,59
+U102185,2025-05-01,Organic Search,Ops Manager,Tablet,APAC,51-200,1.513,3.84,True,True,Paid,Scale,2025-05-01,149
+U106404,2025-05-01,Paid Search,Founder,Mobile,Europe,1-10,0.715,17.06,True,True,Paid,Scale,2025-05-08,149
+U104491,2025-05-01,Content,Marketing Team,Tablet,Europe,11-50,1.324,19.79,True,True,Paid,Starter,2025-05-01,19
+U102879,2025-05-02,Content,Founder,Desktop,Europe,11-50,1.359,7.49,True,True,Paid,Scale,2025-05-09,149
+U105913,2025-05-02,Organic Search,Founder,Tablet,North America,1-10,1.337,14.47,True,True,Paid,Scale,2025-05-09,149
+U100960,2025-05-02,Organic Search,Ops Manager,Desktop,North America,51-200,1.362,19.44,True,True,Paid,Starter,2025-05-10,19
+U103426,2025-05-02,Referral,Ops Manager,Desktop,North America,51-200,2.15,12.51,True,True,Paid,Starter,2025-05-03,19
+U100979,2025-05-03,Referral,Marketing Team,Mobile,Europe,11-50,1.069,12.01,True,True,Paid,Growth,2025-05-08,59
+U100951,2025-05-03,Paid Search,Founder,Mobile,Europe,11-50,1.179,10.82,True,True,Paid,Growth,2025-05-05,59
+U103931,2025-05-03,Paid Search,Founder,Desktop,APAC,1-10,0.689,57.8,True,True,Paid,Growth,2025-05-03,59
+U101333,2025-05-04,Paid Search,Sales Team,Desktop,North America,201-1000,0.861,12.32,True,True,Paid,Starter,2025-05-07,19
+U105449,2025-05-04,Paid Search,Ops Manager,Desktop,APAC,201-1000,1.336,10.04,True,True,Paid,Starter,2025-05-09,19
+U103640,2025-05-04,Organic Search,Founder,Desktop,Europe,51-200,1.221,15.19,True,True,Paid,Starter,2025-05-10,19
+U102444,2025-05-05,Referral,Ops Manager,Desktop,North America,51-200,1.696,4.12,True,True,Paid,Growth,2025-05-13,59
+U107456,2025-05-05,Referral,Founder,Desktop,APAC,1-10,1.352,6.25,True,True,Paid,Starter,2025-05-11,19
+U102966,2025-05-06,Referral,Founder,Desktop,APAC,201-1000,1.03,24.47,True,True,Paid,Starter,2025-05-09,19
+U103918,2025-05-07,Organic Search,Founder,Desktop,APAC,11-50,1.327,45.71,True,True,Paid,Starter,2025-05-12,19
+U105957,2025-05-07,Referral,Ops Manager,Desktop,North America,51-200,1.657,3.25,True,True,Paid,Growth,2025-05-07,59
+U107483,2025-05-08,Content,Sales Team,Desktop,North America,11-50,1.444,23.56,True,True,Paid,Growth,2025-05-14,59
+U104016,2025-05-08,Partnership,Ops Manager,Desktop,North America,1-10,1.586,13.16,True,True,Paid,Starter,2025-05-11,19
+U102354,2025-05-08,Paid Search,Sales Team,Desktop,Europe,11-50,1.273,24.41,True,True,Paid,Scale,2025-05-13,149
+U105125,2025-05-09,Referral,Ops Manager,Mobile,North America,11-50,1.825,11.92,True,True,Paid,Growth,2025-05-10,59
+U103475,2025-05-09,Organic Search,Ops Manager,Desktop,North America,11-50,1.728,19.38,True,True,Paid,Starter,2025-05-09,19
+U106826,2025-05-10,Social,Ops Manager,Mobile,North America,201-1000,1.148,34.57,True,True,Paid,Growth,2025-05-16,59
+U106689,2025-05-10,Paid Search,Marketing Team,Mobile,LATAM,1-10,1.467,12.59,True,True,Paid,Starter,2025-05-16,19
+U101880,2025-05-11,Organic Search,Sales Team,Desktop,Europe,51-200,1.138,20.94,True,True,Paid,Scale,2025-05-17,149
+U101213,2025-05-11,Content,Founder,Mobile,North America,51-200,1.093,15.75,True,True,Paid,Growth,2025-05-16,59
+U100067,2025-05-11,Organic Search,Ops Manager,Desktop,LATAM,11-50,1.394,5.04,True,True,Paid,Starter,2025-05-18,19
+U105925,2025-05-11,Referral,Ops Manager,Mobile,Europe,1-10,1.327,10.41,True,True,Paid,Starter,2025-05-15,19
+U107265,2025-05-12,Content,Ops Manager,Mobile,APAC,51-200,1.261,25.46,True,True,Paid,Starter,2025-05-16,19
+U101344,2025-05-12,Social,Marketing Team,Desktop,APAC,1-10,1.048,2.93,True,True,Paid,Starter,2025-05-19,19
+U101031,2025-05-12,Organic Search,Marketing Team,Desktop,MEA,11-50,0.86,14.71,True,True,Paid,Starter,2025-05-16,19
+U103795,2025-05-12,Referral,Marketing Team,Desktop,Europe,11-50,1.364,19.11,True,True,Paid,Growth,2025-05-19,59
+U102910,2025-05-13,Organic Search,Marketing Team,Desktop,APAC,1-10,1.377,36.27,True,True,Paid,Growth,2025-05-14,59
+U101201,2025-05-13,Organic Search,Marketing Team,Desktop,North America,1-10,1.067,6.8,True,True,Paid,Starter,2025-05-15,19
+U106164,2025-05-14,Organic Search,Ops Manager,Desktop,APAC,11-50,1.65,4.8,True,True,Paid,Growth,2025-05-17,59
+U105995,2025-05-15,Content,Founder,Desktop,MEA,51-200,1.29,13.71,True,True,Paid,Starter,2025-05-19,19
+U107462,2025-05-15,Paid Search,Founder,Desktop,North America,1-10,1.108,18.41,True,True,Paid,Starter,2025-05-16,19
+U104906,2025-05-15,Paid Search,Sales Team,Desktop,APAC,51-200,0.908,24.18,True,True,Paid,Growth,2025-05-19,59
+U107700,2025-05-16,Organic Search,Ops Manager,Desktop,MEA,1000+,1.064,45.7,True,True,Paid,Growth,2025-05-21,59
+U106503,2025-05-17,Content,Sales Team,Mobile,North America,11-50,1.443,9.63,True,True,Paid,Growth,2025-05-20,59
+U107154,2025-05-17,Referral,Founder,Desktop,North America,51-200,1.679,21.24,True,True,Paid,Growth,2025-05-17,59
+U108122,2025-05-17,Organic Search,Sales Team,Mobile,APAC,51-200,1.067,8.2,True,True,Paid,Growth,2025-05-23,59
+U101861,2025-05-18,Organic Search,Ops Manager,Desktop,Europe,1-10,1.781,8.14,True,True,Paid,Growth,2025-05-21,59
+U107897,2025-05-18,Content,Sales Team,Mobile,LATAM,1-10,1.231,13.65,True,True,Paid,Starter,2025-05-22,19
+U106628,2025-05-18,Organic Search,Founder,Desktop,LATAM,1-10,1.221,7.06,True,True,Paid,Starter,2025-05-21,19
+U100135,2025-05-20,Organic Search,Sales Team,Desktop,APAC,1-10,1.659,17.22,True,True,Paid,Growth,2025-05-27,59
+U103007,2025-05-20,Paid Search,Founder,Mobile,North America,51-200,1.159,5.07,True,True,Paid,Starter,2025-05-23,19
+U105510,2025-05-21,Referral,Marketing Team,Desktop,North America,11-50,1.164,13.53,True,True,Paid,Growth,2025-05-29,59
+U108030,2025-05-21,Referral,Ops Manager,Desktop,North America,1-10,1.952,6.95,True,True,Paid,Starter,2025-05-21,19
+U103061,2025-05-22,Partnership,Sales Team,Mobile,Europe,1-10,1.31,24.11,True,True,Paid,Growth,2025-05-30,59
+U105861,2025-05-24,Partnership,Founder,Desktop,North America,1-10,1.371,10.74,True,True,Paid,Scale,2025-05-31,149
+U106094,2025-05-25,Referral,Marketing Team,Mobile,North America,201-1000,0.854,45.44,True,True,Paid,Starter,2025-05-26,19
+U105590,2025-05-28,Organic Search,Marketing Team,Desktop,North America,51-200,1.073,11.93,True,True,Paid,Starter,2025-06-04,19
+U105035,2025-05-28,Referral,Founder,Desktop,North America,11-50,1.343,22.0,True,True,Paid,Growth,2025-06-02,59
+U106093,2025-05-28,Referral,Ops Manager,Desktop,North America,1-10,1.779,8.58,True,True,Paid,Growth,2025-06-04,59
+U103057,2025-05-29,Paid Search,Ops Manager,Desktop,North America,11-50,1.265,10.31,True,True,Paid,Growth,2025-05-31,59
+U101672,2025-05-29,Paid Search,Ops Manager,Desktop,Europe,1-10,0.989,38.07,True,True,Paid,Growth,2025-06-05,59
+U107935,2025-05-31,Content,Sales Team,Desktop,APAC,11-50,0.873,37.24,True,True,Paid,Growth,2025-06-06,59
+U106189,2025-05-31,Organic Search,Marketing Team,Desktop,North America,1-10,1.076,28.03,True,True,Paid,Starter,2025-06-01,19
+U106645,2025-06-01,Organic Search,Founder,Desktop,North America,1-10,1.533,9.41,True,True,Paid,Starter,2025-06-07,19
+U101846,2025-06-01,Referral,Ops Manager,Desktop,LATAM,1-10,1.595,14.98,True,True,Paid,Growth,2025-06-08,59
+U104932,2025-06-02,Organic Search,Ops Manager,Tablet,Europe,1-10,1.6,21.84,True,True,Paid,Starter,2025-06-07,19
+U103808,2025-06-02,Organic Search,Founder,Mobile,Europe,11-50,1.33,21.53,True,True,Paid,Starter,2025-06-09,19
+U104858,2025-06-02,Content,Sales Team,Desktop,North America,11-50,1.409,11.54,True,True,Paid,Scale,2025-06-08,149
+U106817,2025-06-03,Paid Search,Founder,Mobile,LATAM,1-10,0.806,10.83,True,True,Paid,Growth,2025-06-11,59
+U106954,2025-06-03,Organic Search,Ops Manager,Tablet,APAC,1-10,1.099,24.15,True,True,Paid,Starter,2025-06-11,19
+U101882,2025-06-04,Content,Sales Team,Mobile,Europe,1-10,1.188,13.0,True,True,Paid,Growth,2025-06-04,59
+U107765,2025-06-04,Content,Marketing Team,Mobile,North America,11-50,0.843,3.98,True,True,Paid,Starter,2025-06-09,19
+U106144,2025-06-05,Social,Ops Manager,Desktop,LATAM,51-200,1.27,3.1,True,True,Paid,Scale,2025-06-08,149
+U102783,2025-06-05,Referral,Ops Manager,Desktop,North America,1-10,1.565,10.19,True,True,Paid,Starter,2025-06-09,19
+U106935,2025-06-07,Paid Search,Marketing Team,Desktop,Europe,51-200,0.767,10.86,True,True,Paid,Starter,2025-06-08,19
+U106298,2025-06-07,Partnership,Founder,Desktop,Europe,1-10,1.8,11.49,True,True,Paid,Starter,2025-06-07,19
+U108434,2025-06-07,Paid Search,Founder,Desktop,APAC,11-50,0.966,18.37,True,True,Paid,Growth,2025-06-15,59
+U106869,2025-06-08,Partnership,Founder,Desktop,North America,51-200,1.187,4.13,True,True,Paid,Starter,2025-06-11,19
+U103053,2025-06-08,Paid Search,Marketing Team,Mobile,Europe,1-10,0.939,15.3,True,True,Paid,Growth,2025-06-12,59
+U105165,2025-06-08,Organic Search,Ops Manager,Desktop,Europe,11-50,1.483,13.11,True,True,Paid,Scale,2025-06-10,149
+U106918,2025-06-10,Organic Search,Sales Team,Mobile,Europe,1-10,0.951,38.5,True,True,Paid,Starter,2025-06-10,19
+U104848,2025-06-11,Referral,Ops Manager,Desktop,Europe,11-50,1.636,9.63,True,True,Paid,Starter,2025-06-19,19
+U106488,2025-06-12,Referral,Ops Manager,Desktop,Europe,1-10,1.39,3.54,True,True,Paid,Scale,2025-06-18,149
+U107818,2025-06-12,Partnership,Sales Team,Desktop,Europe,1-10,1.458,11.55,True,True,Paid,Growth,2025-06-15,59
+U107302,2025-06-12,Referral,Founder,Desktop,Europe,1000+,1.365,11.64,True,True,Paid,Starter,2025-06-15,19
+U103919,2025-06-12,Referral,Ops Manager,Desktop,LATAM,1-10,1.94,10.69,True,True,Paid,Starter,2025-06-18,19
+U104865,2025-06-13,Referral,Founder,Mobile,MEA,1000+,1.623,5.94,True,True,Paid,Starter,2025-06-13,19
+U103906,2025-06-15,Referral,Sales Team,Desktop,Europe,51-200,1.428,12.79,True,True,Paid,Growth,2025-06-16,59
+U104918,2025-06-15,Organic Search,Student / Hobby,Desktop,Europe,201-1000,0.684,20.5,True,True,Paid,Starter,2025-06-18,19
+U101361,2025-06-15,Referral,Sales Team,Mobile,Europe,51-200,1.237,17.94,True,True,Paid,Growth,2025-06-15,59
+U100061,2025-06-15,Referral,Sales Team,Desktop,APAC,1-10,0.938,7.38,True,True,Paid,Starter,2025-06-20,19
+U100712,2025-06-18,Referral,Sales Team,Desktop,North America,51-200,1.233,30.54,True,True,Paid,Growth,2025-06-18,59
+U108013,2025-06-18,Organic Search,Ops Manager,Desktop,APAC,51-200,1.689,14.93,True,True,Paid,Growth,2025-06-19,59
+U106206,2025-06-19,Content,Ops Manager,Desktop,Europe,1-10,1.545,20.69,True,True,Paid,Growth,2025-06-23,59
+U105192,2025-06-20,Paid Search,Founder,Desktop,North America,11-50,1.054,5.82,True,True,Paid,Starter,2025-06-22,19
+U104812,2025-06-20,Organic Search,Ops Manager,Desktop,LATAM,1-10,1.664,18.4,True,True,Paid,Growth,2025-06-25,59
+U103509,2025-06-20,Referral,Ops Manager,Desktop,Europe,11-50,1.766,8.09,True,True,Paid,Growth,2025-06-21,59
+U108336,2025-06-21,Partnership,Ops Manager,Mobile,North America,1-10,1.369,14.27,True,True,Paid,Growth,2025-06-21,59
+U104552,2025-06-21,Organic Search,Ops Manager,Mobile,North America,201-1000,1.496,10.64,True,True,Paid,Growth,2025-06-29,59
+U107297,2025-06-22,Organic Search,Founder,Mobile,North America,11-50,1.336,8.87,True,True,Paid,Starter,2025-06-29,19
+U102533,2025-06-24,Organic Search,Marketing Team,Desktop,LATAM,11-50,0.723,34.32,True,True,Paid,Starter,2025-06-26,19
+U103616,2025-06-25,Organic Search,Ops Manager,Desktop,North America,11-50,1.705,3.62,True,True,Paid,Growth,2025-06-27,59
+U102380,2025-06-25,Referral,Ops Manager,Desktop,APAC,11-50,1.712,33.81,True,True,Paid,Scale,2025-06-25,149
+U107930,2025-06-25,Referral,Ops Manager,Mobile,North America,1-10,1.785,7.25,True,True,Paid,Starter,2025-06-28,19
+U100333,2025-06-25,Paid Search,Sales Team,Desktop,North America,1-10,1.0,8.06,True,True,Paid,Growth,2025-06-25,59
+U105821,2025-06-26,Referral,Marketing Team,Desktop,North America,1-10,1.164,9.61,True,True,Paid,Growth,2025-07-01,59
+U102758,2025-06-27,Paid Search,Founder,Desktop,North America,1-10,1.213,26.59,True,True,Paid,Starter,2025-07-01,19
+U106630,2025-06-27,Referral,Ops Manager,Desktop,North America,11-50,1.592,16.14,True,True,Paid,Starter,2025-07-04,19
+U108006,2025-06-28,Referral,Ops Manager,Desktop,North America,1-10,2.15,5.92,True,True,Paid,Starter,2025-07-01,19
+U100491,2025-06-28,Social,Ops Manager,Mobile,Europe,51-200,0.947,11.64,True,True,Paid,Growth,2025-07-02,59
+U101421,2025-06-29,Referral,Founder,Mobile,LATAM,51-200,1.336,8.04,True,True,Paid,Growth,2025-07-03,59
+U107243,2025-06-29,Content,Ops Manager,Desktop,APAC,1-10,1.706,11.86,True,True,Paid,Starter,2025-07-01,19
+U101777,2025-07-02,Referral,Sales Team,Desktop,APAC,11-50,1.644,2.65,True,True,Paid,Growth,2025-07-08,59
+U103164,2025-07-03,Organic Search,Ops Manager,Desktop,North America,1-10,1.601,12.1,True,True,Paid,Growth,2025-07-10,59
+U107218,2025-07-04,Referral,Ops Manager,Desktop,North America,51-200,1.529,9.76,True,True,Paid,Scale,2025-07-08,149
+U100215,2025-07-04,Organic Search,Sales Team,Mobile,Europe,51-200,1.183,19.69,True,True,Paid,Growth,2025-07-11,59
+U102452,2025-07-05,Partnership,Student / Hobby,Desktop,North America,1-10,0.847,31.84,True,True,Paid,Starter,2025-07-13,19
+U106788,2025-07-05,Social,Ops Manager,Tablet,North America,1-10,0.833,20.16,True,True,Paid,Growth,2025-07-11,59
+U100875,2025-07-05,Content,Founder,Tablet,North America,201-1000,1.485,26.41,True,True,Paid,Starter,2025-07-10,19
+U106133,2025-07-08,Referral,Founder,Desktop,North America,1000+,1.464,19.06,True,True,Paid,Starter,2025-07-15,19
+U104083,2025-07-09,Referral,Ops Manager,Desktop,APAC,51-200,1.529,20.07,True,True,Paid,Starter,2025-07-15,19
+U105406,2025-07-09,Organic Search,Founder,Mobile,North America,51-200,1.225,18.91,True,True,Paid,Starter,2025-07-13,19
+U108253,2025-07-10,Organic Search,Ops Manager,Mobile,LATAM,1-10,1.392,6.3,True,True,Paid,Scale,2025-07-18,149
+U103717,2025-07-10,Organic Search,Founder,Desktop,LATAM,11-50,1.829,13.14,True,True,Paid,Starter,2025-07-17,19
+U101640,2025-07-10,Content,Ops Manager,Desktop,APAC,11-50,1.234,10.24,True,True,Paid,Growth,2025-07-11,59
+U104852,2025-07-10,Organic Search,Founder,Mobile,Europe,1-10,0.955,27.47,True,True,Paid,Starter,2025-07-17,19
+U104131,2025-07-10,Content,Ops Manager,Desktop,LATAM,11-50,1.5,7.43,True,True,Paid,Growth,2025-07-18,59
+U104233,2025-07-11,Content,Sales Team,Desktop,North America,201-1000,1.601,31.85,True,True,Paid,Growth,2025-07-16,59
+U107152,2025-07-12,Organic Search,Ops Manager,Desktop,APAC,51-200,1.252,21.01,True,True,Paid,Starter,2025-07-15,19
+U107412,2025-07-13,Paid Search,Marketing Team,Desktop,APAC,1-10,0.986,38.7,True,True,Paid,Starter,2025-07-15,19
+U101825,2025-07-13,Organic Search,Founder,Tablet,North America,51-200,0.978,14.21,True,True,Paid,Starter,2025-07-19,19
+U101172,2025-07-13,Referral,Ops Manager,Mobile,Europe,1-10,1.76,9.86,True,True,Paid,Scale,2025-07-20,149
+U101965,2025-07-14,Content,Founder,Mobile,APAC,1-10,1.337,4.7,True,True,Paid,Starter,2025-07-14,19
+U101813,2025-07-15,Referral,Ops Manager,Mobile,North America,1-10,1.882,9.44,True,True,Paid,Growth,2025-07-15,59
+U100871,2025-07-16,Referral,Sales Team,Mobile,Europe,1-10,1.429,18.34,True,True,Paid,Scale,2025-07-23,149
+U105453,2025-07-17,Content,Ops Manager,Desktop,LATAM,11-50,1.256,22.78,True,True,Paid,Starter,2025-07-19,19
+U103045,2025-07-18,Referral,Founder,Desktop,North America,1-10,1.336,13.19,True,True,Paid,Growth,2025-07-20,59
+U102403,2025-07-20,Paid Search,Founder,Desktop,North America,1-10,0.881,20.57,True,True,Paid,Starter,2025-07-27,19
+U102604,2025-07-20,Referral,Ops Manager,Desktop,North America,51-200,1.572,7.24,True,True,Paid,Starter,2025-07-21,19
+U104800,2025-07-22,Referral,Founder,Desktop,North America,11-50,1.686,12.32,True,True,Paid,Starter,2025-07-30,19
+U103712,2025-07-22,Referral,Ops Manager,Tablet,North America,201-1000,1.877,7.07,True,True,Paid,Starter,2025-07-29,19
+U107276,2025-07-22,Referral,Marketing Team,Mobile,Europe,1000+,1.329,14.68,True,True,Paid,Growth,2025-07-22,59
+U104683,2025-07-23,Partnership,Founder,Desktop,Europe,11-50,1.322,24.66,True,True,Paid,Growth,2025-07-26,59
+U106011,2025-07-23,Organic Search,Ops Manager,Desktop,LATAM,1-10,1.543,13.02,True,True,Paid,Starter,2025-07-27,19
+U106450,2025-07-23,Partnership,Ops Manager,Desktop,North America,201-1000,1.559,1.46,True,True,Paid,Growth,2025-07-30,59
+U102386,2025-07-24,Social,Ops Manager,Desktop,APAC,1-10,0.798,52.4,True,True,Paid,Starter,2025-07-30,19
+U100371,2025-07-24,Referral,Founder,Desktop,Europe,201-1000,1.301,4.66,True,True,Paid,Growth,2025-07-24,59
+U108441,2025-07-25,Organic Search,Marketing Team,Desktop,Europe,1-10,1.172,9.29,True,True,Paid,Starter,2025-07-27,19
+U105331,2025-07-26,Organic Search,Ops Manager,Desktop,North America,201-1000,1.532,19.84,True,True,Paid,Growth,2025-07-26,59
+U104347,2025-07-26,Paid Search,Sales Team,Desktop,Europe,1-10,1.034,19.99,True,True,Paid,Scale,2025-07-26,149
+U103821,2025-07-27,Referral,Founder,Mobile,North America,1000+,1.564,11.3,True,True,Paid,Starter,2025-08-04,19
+U104115,2025-07-27,Organic Search,Founder,Mobile,North America,11-50,1.571,5.83,True,True,Paid,Starter,2025-07-29,19
+U108139,2025-07-28,Paid Search,Ops Manager,Tablet,APAC,11-50,0.874,31.17,True,True,Paid,Growth,2025-07-29,59
+U102487,2025-07-29,Content,Marketing Team,Desktop,Europe,1-10,1.342,19.63,True,True,Paid,Growth,2025-08-04,59
+U101613,2025-07-29,Content,Ops Manager,Mobile,Europe,11-50,0.977,31.49,True,True,Paid,Growth,2025-08-01,59
+U104234,2025-07-29,Referral,Founder,Mobile,Europe,11-50,1.605,13.09,True,True,Paid,Starter,2025-07-30,19
+U105795,2025-07-29,Referral,Ops Manager,Desktop,North America,51-200,1.266,13.75,True,True,Paid,Growth,2025-07-30,59
+U106797,2025-07-29,Paid Search,Ops Manager,Desktop,Europe,51-200,0.946,14.43,True,True,Paid,Starter,2025-07-31,19
+U101331,2025-07-30,Referral,Founder,Desktop,APAC,1-10,1.524,7.55,True,True,Paid,Scale,2025-08-03,149
+U104864,2025-07-30,Organic Search,Ops Manager,Desktop,Europe,11-50,1.207,7.73,True,True,Paid,Scale,2025-08-07,149
+U100459,2025-08-04,Organic Search,Founder,Desktop,North America,1-10,1.144,2.17,True,True,Paid,Scale,2025-08-12,149
+U107856,2025-08-08,Organic Search,Ops Manager,Desktop,MEA,51-200,1.317,15.92,True,True,Paid,Starter,2025-08-15,19
+U105467,2025-08-10,Paid Search,Founder,Mobile,North America,1-10,1.09,11.59,True,True,Paid,Starter,2025-08-12,19
+U104140,2025-08-10,Organic Search,Ops Manager,Desktop,LATAM,1-10,1.748,19.95,True,True,Paid,Growth,2025-08-11,59
+U104401,2025-08-11,Referral,Ops Manager,Desktop,North America,51-200,1.863,1.53,True,True,Paid,Growth,2025-08-17,59
+U103726,2025-08-12,Partnership,Marketing Team,Desktop,LATAM,51-200,0.921,15.42,True,True,Paid,Starter,2025-08-15,19
+U108472,2025-08-13,Organic Search,Sales Team,Desktop,LATAM,1-10,1.194,5.31,True,True,Paid,Starter,2025-08-13,19
+U100426,2025-08-13,Organic Search,Ops Manager,Mobile,APAC,51-200,1.224,8.96,True,True,Paid,Growth,2025-08-16,59
+U100630,2025-08-13,Paid Search,Marketing Team,Desktop,LATAM,11-50,0.922,24.14,True,True,Paid,Growth,2025-08-19,59
+U101650,2025-08-14,Partnership,Founder,Desktop,North America,1-10,1.15,25.62,True,True,Paid,Starter,2025-08-22,19
+U106297,2025-08-15,Organic Search,Founder,Desktop,North America,1-10,1.193,11.17,True,True,Paid,Starter,2025-08-21,19
+U107115,2025-08-16,Referral,Marketing Team,Tablet,APAC,201-1000,0.833,3.68,True,True,Paid,Scale,2025-08-17,149
+U100168,2025-08-17,Referral,Founder,Desktop,North America,11-50,1.641,7.09,True,True,Paid,Growth,2025-08-25,59
+U104667,2025-08-18,Organic Search,Ops Manager,Desktop,MEA,1-10,1.218,5.55,True,True,Paid,Growth,2025-08-18,59
+U106906,2025-08-22,Referral,Sales Team,Desktop,Europe,51-200,1.337,56.51,True,True,Paid,Scale,2025-08-26,149
+U104264,2025-08-22,Referral,Founder,Desktop,North America,1-10,1.666,19.28,True,True,Paid,Starter,2025-08-25,19
+U102187,2025-08-22,Organic Search,Ops Manager,Desktop,APAC,1000+,1.754,4.18,True,True,Paid,Growth,2025-08-27,59
+U105443,2025-08-23,Referral,Ops Manager,Desktop,North America,51-200,1.908,17.53,True,True,Paid,Starter,2025-08-30,19
+U107735,2025-08-25,Social,Sales Team,Desktop,North America,1-10,1.019,37.01,True,True,Paid,Starter,2025-08-29,19
+U107364,2025-08-25,Organic Search,Ops Manager,Desktop,North America,51-200,1.571,40.31,True,True,Paid,Starter,2025-08-28,19
+U104460,2025-08-26,Paid Search,Ops Manager,Desktop,North America,1-10,1.265,7.11,True,True,Paid,Starter,2025-08-29,19
+U100397,2025-08-27,Referral,Founder,Desktop,North America,1-10,1.841,4.81,True,True,Paid,Starter,2025-08-27,19
+U102834,2025-08-27,Referral,Sales Team,Desktop,APAC,201-1000,1.425,14.62,True,True,Paid,Scale,2025-09-02,149
+U108337,2025-08-28,Partnership,Ops Manager,Desktop,APAC,1-10,1.651,9.52,True,True,Paid,Growth,2025-08-28,59
+U100520,2025-08-28,Partnership,Ops Manager,Desktop,North America,11-50,1.343,3.62,True,True,Paid,Starter,2025-09-01,19
+U107718,2025-08-30,Paid Search,Marketing Team,Mobile,Europe,1-10,0.987,12.42,True,True,Paid,Growth,2025-09-02,59
+U107431,2025-08-31,Paid Search,Founder,Desktop,North America,11-50,1.17,22.64,True,True,Paid,Starter,2025-09-02,19
+U105670,2025-08-31,Referral,Founder,Desktop,North America,11-50,1.859,23.14,True,True,Paid,Growth,2025-09-06,59
+U106104,2025-09-01,Paid Search,Ops Manager,Desktop,LATAM,11-50,1.325,10.61,True,True,Paid,Starter,2025-09-01,19
+U100508,2025-09-03,Referral,Ops Manager,Desktop,Europe,51-200,1.479,13.01,True,True,Paid,Starter,2025-09-07,19
+U106443,2025-09-03,Organic Search,Sales Team,Tablet,APAC,1-10,1.165,16.55,True,True,Paid,Scale,2025-09-04,149
+U106716,2025-09-04,Organic Search,Founder,Desktop,North America,201-1000,1.197,24.95,True,True,Paid,Scale,2025-09-06,149
+U104335,2025-09-04,Organic Search,Ops Manager,Mobile,Europe,51-200,0.533,46.62,True,True,Paid,Growth,2025-09-07,59
+U107082,2025-09-04,Partnership,Ops Manager,Desktop,APAC,11-50,1.379,6.17,True,True,Paid,Growth,2025-09-08,59
+U104385,2025-09-06,Referral,Ops Manager,Desktop,North America,1-10,1.798,5.78,True,True,Paid,Starter,2025-09-10,19
+U104651,2025-09-07,Paid Search,Ops Manager,Mobile,APAC,51-200,1.223,23.93,True,True,Paid,Starter,2025-09-08,19
+U104255,2025-09-08,Referral,Ops Manager,Mobile,North America,11-50,1.645,13.8,True,True,Paid,Starter,2025-09-16,19
+U102381,2025-09-09,Partnership,Ops Manager,Mobile,North America,51-200,1.85,3.85,True,True,Paid,Starter,2025-09-10,19
+U106664,2025-09-10,Referral,Marketing Team,Desktop,Europe,11-50,1.526,10.97,True,True,Paid,Growth,2025-09-15,59
+U107754,2025-09-10,Referral,Founder,Desktop,Europe,11-50,1.962,20.18,True,True,Paid,Starter,2025-09-14,19
+U104575,2025-09-10,Referral,Ops Manager,Desktop,Europe,201-1000,1.83,8.9,True,True,Paid,Starter,2025-09-15,19
+U107145,2025-09-12,Referral,Founder,Desktop,North America,1-10,1.309,17.83,True,True,Paid,Starter,2025-09-18,19
+U103550,2025-09-12,Social,Founder,Desktop,North America,1-10,1.167,25.64,True,True,Paid,Growth,2025-09-16,59
+U106733,2025-09-13,Referral,Founder,Desktop,Europe,51-200,1.788,6.76,True,True,Paid,Starter,2025-09-13,19
+U102352,2025-09-13,Paid Search,Founder,Mobile,Europe,1-10,1.366,13.64,True,True,Paid,Starter,2025-09-13,19
+U102918,2025-09-13,Partnership,Marketing Team,Desktop,North America,1-10,0.783,13.42,True,True,Paid,Scale,2025-09-20,149
+U103373,2025-09-14,Organic Search,Founder,Mobile,North America,1-10,0.826,26.69,True,True,Paid,Growth,2025-09-14,59
+U108418,2025-09-15,Organic Search,Ops Manager,Desktop,North America,1-10,1.35,9.94,True,True,Paid,Starter,2025-09-16,19
+U103650,2025-09-16,Organic Search,Founder,Desktop,North America,1-10,1.399,6.34,True,True,Paid,Starter,2025-09-24,19
+U104957,2025-09-16,Referral,Marketing Team,Desktop,North America,1-10,1.533,12.9,True,True,Paid,Growth,2025-09-20,59
+U101049,2025-09-17,Referral,Ops Manager,Desktop,APAC,1-10,1.661,12.7,True,True,Paid,Growth,2025-09-24,59
+U106483,2025-09-23,Paid Search,Marketing Team,Desktop,Europe,11-50,0.935,7.61,True,True,Paid,Starter,2025-09-30,19
+U102270,2025-09-23,Organic Search,Founder,Desktop,North America,1-10,1.243,6.87,True,True,Paid,Growth,2025-10-01,59
+U102700,2025-09-24,Content,Founder,Desktop,North America,11-50,1.335,19.13,True,True,Paid,Starter,2025-09-27,19
+U107517,2025-09-24,Referral,Student / Hobby,Mobile,Europe,51-200,0.946,16.12,True,True,Paid,Growth,2025-10-01,59
+U100704,2025-09-27,Referral,Founder,Desktop,APAC,11-50,1.147,17.37,True,True,Paid,Growth,2025-10-05,59
+U105505,2025-09-27,Organic Search,Marketing Team,Desktop,North America,51-200,1.231,6.84,True,True,Paid,Starter,2025-09-30,19
+U100858,2025-09-29,Organic Search,Sales Team,Desktop,North America,11-50,1.249,12.82,True,True,Paid,Growth,2025-10-07,59
+U103249,2025-09-30,Content,Ops Manager,Desktop,Europe,201-1000,1.562,19.97,True,True,Paid,Growth,2025-10-02,59
+U102165,2025-09-30,Content,Ops Manager,Tablet,North America,1-10,1.411,5.69,True,True,Paid,Growth,2025-10-03,59
+U108409,2025-10-01,Organic Search,Ops Manager,Desktop,Europe,51-200,1.192,20.26,True,True,Paid,Starter,2025-10-05,19
+U106805,2025-10-04,Referral,Sales Team,Mobile,North America,11-50,1.115,10.44,True,True,Paid,Growth,2025-10-12,59
+U100956,2025-10-06,Organic Search,Founder,Desktop,Europe,11-50,1.476,12.46,True,True,Paid,Starter,2025-10-13,19
+U106950,2025-10-08,Content,Ops Manager,Desktop,Europe,51-200,1.618,14.07,True,True,Paid,Growth,2025-10-14,59
+U103663,2025-10-08,Referral,Ops Manager,Tablet,APAC,11-50,1.439,29.85,True,True,Paid,Starter,2025-10-08,19
+U100182,2025-10-10,Referral,Ops Manager,Desktop,North America,1-10,1.25,51.49,True,True,Paid,Starter,2025-10-15,19
+U102592,2025-10-10,Organic Search,Marketing Team,Desktop,Europe,11-50,0.818,9.65,True,True,Paid,Scale,2025-10-16,149
+U106022,2025-10-10,Paid Search,Ops Manager,Desktop,North America,201-1000,1.478,8.1,True,True,Paid,Growth,2025-10-18,59
+U108235,2025-10-10,Paid Search,Ops Manager,Mobile,North America,1-10,1.223,20.79,True,True,Paid,Starter,2025-10-12,19
+U100652,2025-10-12,Referral,Sales Team,Mobile,North America,1-10,1.173,9.7,True,True,Paid,Starter,2025-10-18,19
+U105734,2025-10-12,Content,Founder,Tablet,North America,1-10,1.279,41.61,True,True,Paid,Starter,2025-10-15,19
+U107605,2025-10-13,Referral,Marketing Team,Mobile,APAC,201-1000,1.149,15.51,True,True,Paid,Starter,2025-10-19,19
+U103732,2025-10-20,Social,Founder,Desktop,APAC,11-50,1.364,17.45,True,True,Paid,Starter,2025-10-24,19
+U108053,2025-10-21,Content,Sales Team,Desktop,North America,1-10,1.31,9.72,True,True,Paid,Scale,2025-10-25,149
+U105762,2025-10-23,Referral,Sales Team,Desktop,North America,1-10,1.444,26.89,True,True,Paid,Starter,2025-10-27,19
+U104588,2025-10-24,Organic Search,Ops Manager,Desktop,Europe,1-10,1.434,16.01,True,True,Paid,Starter,2025-10-27,19
+U108288,2025-10-26,Referral,Ops Manager,Desktop,Europe,1-10,1.579,15.81,True,True,Paid,Starter,2025-10-26,19
+U103882,2025-10-26,Organic Search,Founder,Mobile,Europe,1-10,1.195,9.65,True,True,Paid,Starter,2025-11-01,19
+U106434,2025-10-27,Referral,Ops Manager,Desktop,North America,1-10,1.507,3.88,True,True,Paid,Starter,2025-11-03,19
+U103515,2025-10-29,Referral,Sales Team,Desktop,North America,11-50,1.367,10.16,True,True,Paid,Scale,2025-11-05,149
+U100765,2025-10-29,Organic Search,Ops Manager,Mobile,North America,1-10,1.274,10.51,True,True,Paid,Growth,2025-10-29,59
+U103090,2025-10-29,Referral,Founder,Desktop,Europe,1-10,1.746,7.92,True,True,Paid,Growth,2025-11-05,59
+U106256,2025-10-30,Organic Search,Ops Manager,Desktop,North America,1-10,1.327,23.87,True,True,Paid,Starter,2025-11-06,19
+U105328,2025-10-31,Referral,Sales Team,Desktop,Europe,1-10,1.007,9.35,True,True,Paid,Starter,2025-10-31,19
+U101946,2025-11-03,Partnership,Ops Manager,Desktop,North America,11-50,1.573,11.08,True,True,Paid,Growth,2025-11-03,59
+U107324,2025-11-07,Referral,Founder,Desktop,North America,1-10,1.388,45.81,True,True,Paid,Growth,2025-11-07,59
+U103200,2025-11-08,Paid Search,Ops Manager,Mobile,North America,11-50,0.874,15.61,True,True,Paid,Growth,2025-11-09,59
+U105455,2025-11-08,Content,Ops Manager,Desktop,North America,1-10,1.363,9.37,True,True,Paid,Growth,2025-11-14,59
+U105565,2025-11-08,Organic Search,Marketing Team,Desktop,North America,1-10,0.885,21.45,True,True,Paid,Starter,2025-11-12,19
+U100377,2025-11-11,Referral,Sales Team,Desktop,APAC,1-10,1.365,1.34,True,True,Paid,Starter,2025-11-11,19
+U101439,2025-11-11,Referral,Ops Manager,Desktop,North America,51-200,2.15,15.85,True,True,Paid,Starter,2025-11-17,19
+U106247,2025-11-12,Organic Search,Ops Manager,Desktop,North America,1-10,1.404,21.66,True,True,Paid,Growth,2025-11-13,59
+U105162,2025-11-14,Referral,Ops Manager,Mobile,APAC,51-200,1.934,5.92,True,True,Paid,Starter,2025-11-14,19
+U100955,2025-11-14,Referral,Ops Manager,Desktop,Europe,1-10,1.44,2.37,True,True,Paid,Starter,2025-11-20,19
+U105847,2025-11-15,Content,Ops Manager,Mobile,North America,11-50,1.246,21.15,True,True,Paid,Starter,2025-11-18,19
+U101414,2025-11-17,Organic Search,Marketing Team,Mobile,North America,201-1000,1.312,17.19,True,True,Paid,Starter,2025-11-20,19
+U103388,2025-11-18,Paid Search,Marketing Team,Mobile,APAC,201-1000,1.132,27.75,True,True,Paid,Starter,2025-11-21,19
+U107491,2025-11-20,Partnership,Ops Manager,Desktop,LATAM,1-10,1.921,5.49,True,True,Paid,Growth,2025-11-20,59
+U106974,2025-11-23,Content,Founder,Mobile,APAC,201-1000,1.589,10.85,True,True,Paid,Starter,2025-12-01,19
+U100388,2025-11-23,Organic Search,Ops Manager,Mobile,North America,11-50,1.721,15.6,True,True,Paid,Starter,2025-11-23,19
+U104121,2025-11-23,Partnership,Marketing Team,Desktop,North America,51-200,1.072,39.25,True,True,Paid,Starter,2025-11-27,19
+U103269,2025-11-23,Referral,Ops Manager,Desktop,North America,11-50,1.715,13.12,True,True,Paid,Starter,2025-11-26,19
+U101951,2025-11-23,Referral,Ops Manager,Desktop,North America,11-50,1.779,27.43,True,True,Paid,Growth,2025-11-24,59
+U100170,2025-11-24,Referral,Sales Team,Desktop,North America,11-50,1.304,7.39,True,True,Paid,Growth,2025-11-30,59
+U103380,2025-11-25,Organic Search,Founder,Desktop,North America,1-10,1.117,8.84,True,True,Paid,Scale,2025-11-27,149
+U100720,2025-11-26,Referral,Founder,Desktop,North America,1000+,1.315,18.69,True,True,Paid,Growth,2025-11-29,59
+U102535,2025-11-28,Organic Search,Ops Manager,Mobile,Europe,11-50,1.541,6.4,True,True,Paid,Starter,2025-12-01,19
+U101744,2025-11-28,Organic Search,Marketing Team,Mobile,North America,11-50,0.972,9.85,True,True,Paid,Starter,2025-12-05,19
+U105445,2025-11-30,Paid Search,Founder,Desktop,Europe,11-50,0.854,13.85,True,True,Paid,Starter,2025-12-06,19
+U101699,2025-11-30,Referral,Marketing Team,Desktop,North America,1-10,1.126,17.13,True,True,Paid,Scale,2025-12-07,149
+U103072,2025-12-03,Social,Ops Manager,Mobile,Europe,1-10,0.775,39.33,True,True,Paid,Starter,2025-12-08,19
+U101972,2025-12-07,Social,Ops Manager,Desktop,Europe,51-200,1.218,16.97,True,True,Paid,Starter,2025-12-08,19
+U105547,2025-12-09,Organic Search,Ops Manager,Desktop,North America,11-50,1.248,2.38,True,True,Paid,Growth,2025-12-16,59
+U102711,2025-12-09,Referral,Founder,Mobile,North America,1-10,1.55,14.76,True,True,Paid,Growth,2025-12-13,59
+U104452,2025-12-10,Organic Search,Ops Manager,Desktop,MEA,1-10,1.147,8.44,True,True,Paid,Growth,2025-12-10,59
+U102057,2025-12-14,Paid Search,Ops Manager,Desktop,Europe,1-10,1.138,3.05,True,True,Paid,Starter,2025-12-22,19
+U100447,2025-12-16,Organic Search,Ops Manager,Desktop,North America,1-10,1.924,22.68,True,True,Paid,Scale,2025-12-23,149
+U101702,2025-12-19,Organic Search,Ops Manager,Desktop,North America,51-200,1.7,10.96,True,True,Paid,Growth,2025-12-21,59
+U107296,2025-12-19,Social,Marketing Team,Desktop,Europe,11-50,0.905,24.61,True,True,Paid,Starter,2025-12-27,19
+U101706,2025-12-21,Organic Search,Ops Manager,Desktop,LATAM,1-10,1.531,3.64,True,True,Paid,Growth,2025-12-29,59
+U102794,2025-12-22,Organic Search,Ops Manager,Mobile,North America,11-50,1.526,4.17,True,True,Paid,Starter,2025-12-28,19
+U106200,2025-12-23,Paid Search,Ops Manager,Desktop,APAC,1-10,1.085,15.36,True,True,Paid,Growth,2025-12-23,59
+U100541,2025-12-23,Organic Search,Sales Team,Tablet,North America,1-10,1.189,13.47,True,True,Paid,Starter,2025-12-26,19
+U106842,2025-12-24,Content,Ops Manager,Desktop,North America,51-200,1.567,6.16,True,True,Paid,Growth,2025-12-29,59
+U107662,2025-12-25,Paid Search,Founder,Desktop,North America,201-1000,1.113,9.1,True,True,Paid,Scale,2025-12-30,149
+U100178,2025-12-25,Referral,Founder,Tablet,Europe,1-10,2.035,15.75,True,True,Paid,Growth,2025-12-30,59
+U105095,2025-12-27,Referral,Ops Manager,Desktop,Europe,1-10,1.857,12.8,True,True,Paid,Starter,2026-01-01,19
+U100668,2025-12-30,Referral,Founder,Desktop,Europe,11-50,1.953,5.86,True,True,Paid,Starter,2026-01-07,19
+U107153,2025-12-31,Organic Search,Ops Manager,Desktop,North America,11-50,1.568,9.46,True,True,Paid,Scale,2026-01-05,149
