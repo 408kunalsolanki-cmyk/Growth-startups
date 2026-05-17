@@ -22,31 +22,31 @@ This metric is stronger than raw DAU or logins because FlowPilot's core value is
 
 ```text
 .
-├── dashboard/
-│   └── app.py
-├── data/
-│   ├── activity.csv
-│   ├── feature_usage.csv
-│   ├── funnel_events.csv
-│   ├── purchases.csv
-│   └── users.csv
-├── outputs/
-│   ├── charts/
-│   ├── daily_metrics.csv
-│   ├── feature_metrics.csv
-│   ├── funnel_metrics.csv
-│   ├── ltv_by_channel_segment.csv
-│   ├── retention_cohorts.csv
-│   ├── revenue_metrics.csv
-│   ├── segment_metrics.csv
-│   └── weekly_monthly_metrics.csv
-├── reports/
-│   └── business_insights_report.md
-├── src/
-│   ├── analyze_growth.py
-│   └── generate_data.py
-├── requirements.txt
-└── README.md
+|-- dashboard/
+|   `-- app.py
+|-- data/
+|   |-- activity.csv
+|   |-- feature_usage.csv
+|   |-- funnel_events.csv
+|   |-- purchases.csv
+|   `-- users.csv
+|-- outputs/
+|   |-- charts/
+|   |-- daily_metrics.csv
+|   |-- feature_metrics.csv
+|   |-- funnel_metrics.csv
+|   |-- ltv_by_channel_segment.csv
+|   |-- retention_cohorts.csv
+|   |-- revenue_metrics.csv
+|   |-- segment_metrics.csv
+|   `-- weekly_monthly_metrics.csv
+|-- reports/
+|   `-- business_insights_report.md
+|-- src/
+|   |-- analyze_growth.py
+|   `-- generate_data.py
+|-- requirements.txt
+`-- README.md
 ```
 
 ## Dataset
@@ -104,6 +104,14 @@ Launch the dashboard:
 ```bash
 streamlit run dashboard/app.py
 ```
+
+## Streamlit Deployment
+
+Deploy this project on Streamlit Community Cloud with:
+
+- Repository: `408kunalsolanki-cmyk/Growth-startups`
+- Branch: `main`
+- Main file path: `dashboard/app.py`
 
 ## Key Findings
 
